@@ -13,3 +13,7 @@ color: black;
 background-color: gray;
 color: white;
 }
+
+#texto-mayusculas {
+  text-transform: uppercase;
+}
